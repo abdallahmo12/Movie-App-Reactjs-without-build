@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+body{
+  font-family: Montserrat Alternates;
+  background-color: #131722;
+  color:white !important;
+}
+.all-height{
+  height: calc(100vh - 64px);
+}
+input{
+  background-color: transparent !important;
+  color: white !important;
+}
+.sec-heading{
+  position: relative;
+}
+.sec-heading::after{
+  content:'';
+  position: absolute;
+  display: block;
+  width:100%;
+  height: 1px;
+  background-color: rgb(59, 59, 59);
+  bottom:-20px;
+  left:0;
+}
+.sec-heading::before{
+  content:'';
+  position: absolute;
+  display: block;
+  width:25%;
+  height: 1px;
+  background-color: rgb(59, 59, 59);
+  top:-25px;
+  left:0;
+}
+.movie p , .movie p:hover{
+  color: white !important;
+}
+a{
+  text-decoration: none;
+}
+.text-rate , .text-rate:hover{
+  color: #131722 !important
+}
+.img{
+  position:relative
+}
+.overlay{
+  position:absolute;
+  display: none !important;
+  top:0;
+  left:0;
+  height:100%;
+  width:100%;
+  z-index:100;
+  background-color: rgba(19, 23, 34, 0.7) !important;
+  color: white !important;
+  transition: all 2s;
+}
+.img:hover .overlay{
+  display: flex !important;
+  overflow-y: none;
+}
+.bacdrop{
+  height: calc(100vh - 120px) !important;
+  background: url('https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  background-position: 50%;
+  background-origin: content-box;
+  background-attachment: fixed;
+}
+.badg{
+  top:0 !important;
+  right:-12px !important;
+}
