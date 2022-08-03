@@ -1,3 +1,25 @@
+
+## Login Component
+![image](https://user-images.githubusercontent.com/59143174/182543107-02c99f94-362d-41e9-b24e-0b7056f227ab.png)
+
+
+## Register Component
+![image](https://user-images.githubusercontent.com/59143174/182542927-3289dc23-65aa-4a76-a6ad-c2bfa8074dd4.png)
+
+## Home Component
+![image](https://user-images.githubusercontent.com/59143174/182542756-530d7d4e-fe21-4e41-933c-518936ac425f.png)
+
+
+## Movie Details Componenet
+![image](https://user-images.githubusercontent.com/59143174/182543433-44cb14f3-971f-4eb9-b0f9-be3b64100210.png)
+
+## Movies Route
+![image](https://user-images.githubusercontent.com/59143174/182543590-2641fd33-7bed-4b42-9a2e-ca0f732c8b01.png)
+
+## Tv Shows Componenet 
+![image](https://user-images.githubusercontent.com/59143174/182543943-6ece4c24-2de5-448f-a632-63366ffbd1b4.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
