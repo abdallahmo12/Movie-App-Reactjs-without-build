@@ -19,6 +19,8 @@
 ## Tv Shows Componenet 
 ![image](https://user-images.githubusercontent.com/59143174/182543943-6ece4c24-2de5-448f-a632-63366ffbd1b4.png)
 
+## Search By Movie Name
+![image](https://user-images.githubusercontent.com/59143174/182545201-d20befc9-3497-4335-88c4-c8486a5e8845.png)
 
 # Getting Started with Create React App
 
